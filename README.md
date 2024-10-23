@@ -1,4 +1,4 @@
-# Sistema Bancário Simples
+# Sistema Bancário
 
 Este projeto é um sistema bancário simples em Python que permite ao usuário realizar operações básicas, como depósito, saque e consulta de extrato.
 
